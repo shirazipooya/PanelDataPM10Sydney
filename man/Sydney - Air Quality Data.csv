@@ -1,0 +1,19 @@
+Number,AQMN,Region,Sub-region,Lat,Lon,Altitude,Commissioned,Status
+1,CHULLORA,Sydney,Sydney east,-33.89388889,151.0452778,32,2002,Active
+2,EARLWOOD,Sydney,Sydney east,-33.91777778,151.1347222,7,1978,Active
+3,LINDFIELD,Sydney,Sydney east,-33.78277778,151.15,60,1994,Active
+4,MACQUARIE.PARK,Sydney,Sydney east,-33.76527778,151.1177778,49,2017,Active
+5,RANDWICK,Sydney,Sydney east,-33.93333333,151.2419444,28,1995,Active
+6,ROZELLE,Sydney,Sydney east,-33.86583333,151.1625,22,1970,Active
+7,PROSPECT,Sydney,Sydney north west,-33.79472222,150.9125,64,2007,Active
+8,RICHMOND,Sydney,Sydney north west,-33.61833333,150.7458333,21,1992,Active
+9,ST.MARYS,Sydney,Sydney north west,-33.79722222,150.7658333,29,1992,Active
+10,PARRAMATTA.NORTH,Sydney,Sydney north west,-33.79944444,150.9977778,16,2017,Active
+11,VINEYARD,Sydney,Sydney north west,-33.65777778,150.8466667,,,Decommissioned
+12,BARGO,Sydney,Sydney south west,-34.3075,150.58,365,1996,Active
+13,BRINGELLY,Sydney,Sydney south west,-33.91944444,150.7611111,53,1992,Active
+14,CAMDEN,Sydney,Sydney south west,-34.04166667,150.6902778,73,2012,Active
+15,CAMPBELLTOWN.WEST,Sydney,Sydney south west,-34.05611111,150.8122222,84,,Decommissioned
+16,LIVERPOOL,Sydney,Sydney south west,-33.93277778,150.9058333,22,1988,Active
+17,MACARTHUR,Sydney,Sydney south west,-34.07111111,150.7816667,104,,Decommissioned
+18,OAKDALE,Sydney,Sydney south west,-34.05305556,150.4972222,457,1996,Active
